@@ -1,4 +1,2 @@
-# ReViewer - The Book Review Website
-
-Frontend repo of ReViewer project
-  * REST API : - https://github.com/kavindu-mane/ReViewer-API
+ A clone of an existing website which is yet to be finished.
+A project which aims to incorporate various features as learned.
